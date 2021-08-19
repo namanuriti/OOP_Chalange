@@ -15,26 +15,3 @@ class Account:
         else:
             self.balance = self.balance - amount
             print(f'Withdrawal Accepted\nbalance: {self.balance}')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
